@@ -22,5 +22,20 @@
 		"phone": "+380 67 234 56 78",
 		"hours": "Пн-Пт 08:00-20:00, Нд 10:00-14:00",
 		"map": "https://www.google.com/maps?q=Kharkiv,+Klyuchova,+16-10&output=embed"
+	}],
+	"reviews": [{
+		"name": "Олена",
+		"email": "olena@example.com",
+		"text": "Дуже хороша клініка, уважні лікарі."
+	},
+	{
+		"name": "Андрій",
+		"email": "andriy@example.com",
+		"text": "Швидко допомогли моєму собаці."
+	},
+	{
+		"name": "Марія",
+		"email": "maria@example.com",
+		"text": "Приємний персонал і зручний запис."
 	}]
 }
