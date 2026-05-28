@@ -1,26 +1,26 @@
 {
 	"clinics": [{
 		"id": 1,
-		"name": "VetCare Центр",
-		"address": "м. Київ, вул. Зелена, 15",
+		"name": "VetCare Саксаганського",
+		"address": "м. Харків, вул. Саксаганського, 48-58",
 		"phone": "+380 67 123 45 67",
 		"hours": "Пн-Пт 09:00-18:00, Сб 10:00-15:00",
-		"map": "https://www.google.com/maps?q=Kyiv,+вул.+Зелена,+15&output=embed"
+		"map": "https://www.google.com/maps?q=Kharkiv,+вул.+Саксаганського,+48-58&output=embed"
 	},
 	{
 		"id": 2,
-		"name": "VetCare Поділ",
-		"address": "м. Київ, вул. Нижній Вал, 24",
+		"name": "VetCare Клюхова",
+		"address": "м. Харків, вул. Клюхова, 16-10",
 		"phone": "+380 67 234 56 78",
 		"hours": "Пн-Пт 08:00-20:00, Нд 10:00-14:00",
-		"map": "https://www.google.com/maps?q=Kyiv,+Нижній+Вал,+24&output=embed"
+		"map": "https://www.google.com/maps?q=Kharkiv,+Klyuchova,+16-10&output=embed"
 	},
 	{
 		"id": 3,
-		"name": "VetCare Оболонь",
-		"address": "м. Київ, просп. Оболонський, 10",
+		"name": "VetCare Центр",
+		"address": "м. Харків, вул. Свободи, 15",
 		"phone": "+380 67 345 67 89",
 		"hours": "Щодня 09:00-19:00",
-		"map": "https://www.google.com/maps?q=Kyiv,+Оболонський+проспект,+10&output=embed"
+		"map": "https://www.google.com/maps?q=Kharkiv,+вул.+Svobody,+15&output=embed"
 	}]
 }
